@@ -80,8 +80,8 @@ This project performs an in-depth **exploratory data analysis** on the RMS Titan
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-cd exploratory_data_analysis_projects_amit_kharche/EDA_Titanic_Dataset_amit_kharche
+git clone https://github.com/amitkharche/EDA_Titanic_Dataset_amit_kharche.git
+cd EDA_Titanic_Dataset_amit_kharche
 ```
 
 2. **(Optional) Create and activate a virtual environment:**
